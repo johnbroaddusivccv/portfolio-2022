@@ -61,7 +61,7 @@ function Projects() {
               title='Anime-Matrix'
               description='Anime streaming multi media landing page built with hmtl, css, javascript, and php.'
               ghLink='https://github.com/johnbroaddusivccv/anime-matrix'
-              demoLink=''
+              demoLink='https://johnbroaddusivccv.github.io/anime-matrix/'
             />
           </Col>
 
