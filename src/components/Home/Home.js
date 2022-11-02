@@ -30,7 +30,6 @@ function Home() {
               <img
                 src={homeLogo}
                 alt='home pic'
-                // updated profile picture
                 className='img-fluid'
                 style={{ maxHeight: '450px', borderRadius: '50%' }}
               />
