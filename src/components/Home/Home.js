@@ -29,7 +29,6 @@ function Home() {
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
                 src={homeLogo}
-                // changed photo
                 alt='home pic'
                 className='img-fluid'
                 style={{ maxHeight: '450px', borderRadius: '50%' }}
